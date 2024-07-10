@@ -1,0 +1,12 @@
+# This file has private API keys
+**/vars.json
+
+**/test.json
+**/.ipynb_checkpoints/
+
+**/*.drawio
+**/*.png
+**/*.jpg
+**/*.csv
+**/*.txt
+**/*.pptx
