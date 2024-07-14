@@ -6,7 +6,7 @@ import json
 import contextlib
 from PIL import Image
 from IPython.display import display
-from langchain_agents._schemas import AgentState, RawToolMessage
+from ._schemas import AgentState, RawToolMessage
 
 
 def upload_dfs_to_python_env(state: AgentState) -> str:
