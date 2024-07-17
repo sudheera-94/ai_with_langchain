@@ -3,6 +3,7 @@
 
 **/test.json
 **/.ipynb_checkpoints/
+**/__pycache__/
 
 **/*.drawio
 **/*.csv
