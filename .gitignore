@@ -7,5 +7,6 @@
 **/*.drawio
 **/*.csv
 **/*.txt
+**/*.pptx
 
 /.idea/
