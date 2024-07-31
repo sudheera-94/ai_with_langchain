@@ -81,6 +81,17 @@ refine their responses dynamically.
 </h3>
 
 <div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"
+    src="images/Reflection" 
+    alt="Reflection">
+</img> 
+</div>
+
+<div>
 <p style="text-align: justify;">
 Reflection is a technique that involves the agent assessing its own 
 outputs and making adjustments to improve future responses. This 
