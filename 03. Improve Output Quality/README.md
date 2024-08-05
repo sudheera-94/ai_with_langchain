@@ -119,6 +119,17 @@ relevance in future interactions.
 </h3>
 
 <div>
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 70%;"
+    src="images/Reflexion" 
+    alt="Reflection">
+</img> 
+</div>
+
+<div>
 <p style="text-align: justify;">
 Reflexion takes the concept of reflection a step further by enabling 
 the agent to not only assess its outputs but also modify its internal 
