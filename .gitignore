@@ -9,5 +9,6 @@
 **/*.csv
 **/*.txt
 **/*.pptx
+**/*.excalidraw
 
 /.idea/
