@@ -10,5 +10,9 @@
 **/*.txt
 **/*.pptx
 **/*.excalidraw
+**/*.webm
+**/*.vtt
+**/*.mp3
 
 /.idea/
+
